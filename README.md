@@ -1,5 +1,6 @@
 # Getting Started with Create React App
 
+# Live Preview at: [Netflix Clone (Click Here)](https://netflix-ui-pearl.vercel.app/login)
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
